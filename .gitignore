@@ -1,0 +1,16 @@
+# Created by https://www.gitignore.io/api/laravel
+
+### Laravel ###
+vendor/
+node_modules/
+npm-debug.log
+
+app/storage/
+
+
+public/storage
+storage/*.key
+.env.*.php
+.env.php
+.env
+.idea
