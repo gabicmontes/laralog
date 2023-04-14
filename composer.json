@@ -1,0 +1,17 @@
+{
+    "name": "vendor/laralog",
+    "description": "Laravel Package For Logging",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Laralog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriela Montes"
+        }
+    ],
+    "require": {}
+}
