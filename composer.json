@@ -1,5 +1,5 @@
 {
-    "name": "vendor/laralog",
+    "name": "log/laralog",
     "description": "Laravel Package For Logging",
     "type": "library",
     "license": "MIT License",
@@ -13,5 +13,7 @@
             "name": "Gabriela Montes"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/support": "^10.7"
+    }
 }
